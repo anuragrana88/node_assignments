@@ -1,0 +1,17 @@
+{
+  "name": "node_assignments",
+  "version": "1.0.0",
+  "description": "solution to node assignments",
+  "main": "q1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anurag Rana",
+  "license": "ISC",
+  "dependencies": {
+    "xml-parser": "^1.2.1",
+    "handlebars": "^4.1.1",
+    "request": "^2.88.0",
+    "async": "^2.6.2"
+  }
+}
