@@ -9,9 +9,12 @@
   "author": "Anurag Rana",
   "license": "ISC",
   "dependencies": {
-    "xml-parser": "^1.2.1",
+    "async": "^2.6.2",
+    "bluebird": "^3.5.3",
     "handlebars": "^4.1.1",
+    "node-url-shortener": "^1.0.1",
     "request": "^2.88.0",
-    "async": "^2.6.2"
+    "tinyurl": "^1.1.2",
+    "xml-parser": "^1.2.1"
   }
 }
