@@ -11,6 +11,7 @@
   "dependencies": {
     "async": "^2.6.2",
     "bluebird": "^3.5.3",
+    "dotenv": "^7.0.0",
     "handlebars": "^4.1.1",
     "node-url-shortener": "^1.0.1",
     "request": "^2.88.0",
