@@ -11,6 +11,8 @@ var options = {
 
 //look for all connections via IO API
 request(options, function (error, response, body) {
+    if (error)
+        console.log('Error: ' + error);
     console.log('Status: ' + response.statusCode);
     console.log(body);
 });
