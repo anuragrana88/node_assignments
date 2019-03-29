@@ -9,8 +9,6 @@ var imageURLs = ['https://doodleart.redbull.com/assets/managed/entries/processed
     'https://i.pinimg.com/originals/ef/4c/91/ef4c91fb73e61e19211a0589187ccaa6.jpg', 'https://static.vecteezy.com/system/resources/previews/000/107/464/non_2x/huge-doodle-vector-pack.jpg'
     , 'https://media.glassdoor.com/l/e9/c1/7a/84/independence-day-celebration.jpg', 'https://i.ytimg.com/vi/O5u1apUkYV0/maxresdefault.jpg'];
 
-
-var context = [];
 var promises = [];
 
 var getData = function (imageURL) {
